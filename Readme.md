@@ -1,4 +1,4 @@
-# Lexical Analyzer (Lab 1)
+# Lexical Analyzer
 
 A simple lexical analyzer written in C++ for a programming languages lab. It reads a source file, tokenizes it, and prints recognized tokens to stdout.
 
